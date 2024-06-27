@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.form-container{
+    width: 23rem;
+    aspect-ratio: 1;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    margin-top: 10rem;
+    margin-left: 30rem;
+    background-color: navy;
+    color: white;
+}
+.form-title{
+ 
+    text-align: center;
+    padding: 2rem 2rem 2rem 2rem;
+}
+.form-label{
+    padding: 2rem;
+}
+.form-input{
+    margin: 1rem;
+}
+button{
+    margin-left: 6rem;
+    pad: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+}
